@@ -1,0 +1,30 @@
+TELCO CUSTOMER CHURN: INSIGHTS AND RECOMMENDATIONS
+
+KEY FINDINGS
+1. Overall churn is 26.5%: 1,865 of 7,043 customers left, about 1 in 4.
+2. Contract type is the biggest driver. Month-to-month customers churn at 44.2%, versus 8.3% for one-year and 1.3% for two-year contracts.
+3. New customers leave the most. Churn is 51.2% in months 0-12, 37.4% in months 13-24, 17.1% in months 25-48, and 4.7% after 48 months.
+4. Fiber optic customers churn more. Fiber is 36.3%, DSL is 21.3%, and customers with no internet are 14.4%.
+5. Tech support helps retention. Among internet customers, those without it churn at 32.5% and those with it at 25.2%.
+6. Payment method matters. Electronic check users churn at 40.8%, versus 17.2% for bank transfer, 20.1% for credit card and 22.8% for mailed check.
+7. The riskiest combination is Month-to-month with Fiber optic, at 59.0% churn. New customers in that group churn at about 70%.
+8. Churn costs about 137,600 per month, roughly 1.65 million per year in lost recurring revenue.
+
+RECOMMENDATIONS
+1. Month-to-month customers leave most (44.2%): offer a discount or free upgrade to move them to a one-year plan.
+2. First-year customers leave most (51.2%): run a 90-day welcome program with check-in calls and usage tips.
+3. Fiber customers without tech support leave more: bundle tech support and online security free for 3 months.
+4. Electronic check users leave most (40.8%): give a small bill discount for switching to automatic payment.
+5. Retention team needs a call list: use the At-Risk Customers page.
+
+AT-RISK CUSTOMER LIST
+The At-Risk page shows 847 current customers on month-to-month contracts with 12 months or less of tenure. In the same segment, 988 customers have already left, so about 54% of this segment (988 of 1,835) has churned. These 847 customers pay about 49,600 per month, roughly 595,500 per year, which is the revenue that early action could protect.
+
+BUSINESS IMPACT ESTIMATE
+Yearly revenue lost to churn = about 1,651,000.
+If retention actions reduce churn by 10%, the company saves about 165,000 per year (1,651,000 x 0.10).
+This is an estimate based on a 10% reduction assumption.
+
+LIMITATIONS
+- The dataset is synthetic, modelled on the public Telco churn structure, so the exact numbers are illustrative.
+- These findings show associations, not proof of cause. A pilot test would be needed to show that discounts actually reduce churn.
