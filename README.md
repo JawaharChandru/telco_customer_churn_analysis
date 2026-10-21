@@ -46,7 +46,8 @@ Synthetic dataset modelled on the public Telco Customer Churn schema: 7,043 cust
 ![Drivers](screenshots/drivers.png)
 
 ### At-Risk Customers
-![At-Risk Customers](screenshots/at_risk.png)
+![At-Risk Customers]<img width="2549" height="1445" alt="risk_customers" src="https://github.com/user-attachments/assets/de19e25a-654a-470b-a84a-c9fc83de42c4" />
+
 
 ## Repository Structure
 - data: raw and cleaned CSV files
